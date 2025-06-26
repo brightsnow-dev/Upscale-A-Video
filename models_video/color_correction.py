@@ -1,3 +1,4 @@
+
 '''
 # --------------------------------------------------------------------------------
 #   Color fixed script from Li Yi (https://github.com/pkuliyi2015/sd-webui-stablesr/blob/master/srmodule/colorfix.py)
